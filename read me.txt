@@ -1,0 +1,9 @@
+ebnf: contains ebnf
+working parser: contains a parser that reads from a file and outputs to file
+tree and things: contains implementation of tree class in c++ and the parser code after converting  to python with tree that didn't work well but i wasted a lot of time trying to make it in QT and transferring code to python, also it contains a project that i didn't complete that joins scanner and parser because dr said it's ok not to join them
+old scanner after little modification: contains old scanner with modification to output
+**************
+it's better to start by running the working parser project by giving it scanner output files that are:
+word space colon space word optional word
+check scanner output file that is in this folder
+******************
